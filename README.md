@@ -1,5 +1,5 @@
 # Proiect-programare-orientata-obiect-in-C---baza-de-date-
-In cadrul disciplinei POO in limbajul C++ am realizat, in echipa formata de doua persoane, cel mai complex proiect (de pana acum), ce consta intr-o baza de doate asemanatoare MySQL sau SQLite, respectand anumite cerinte obligatorii. Proiectul a obtinut punctaj maxim.
+In cadrul disciplinei POO in limbajul C++ am realizat, in echipa formata de doua persoane, cel mai complex proiect (de pana acum), ce consta intr-o baza de date asemanatoare MySQL sau SQLite, respectand anumite cerinte obligatorii. Proiectul a obtinut punctaj maxim.
 
 
 Aplicatia este una de tip consola, realizata in Visual Studio 2019. Primeste input de la tastatura, din fisiere text, binare sau csv, 
